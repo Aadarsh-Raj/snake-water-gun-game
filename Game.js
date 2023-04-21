@@ -1,5 +1,5 @@
-// Use js to crate a game of snake, water & gun. The game should ask you to enter S, W or G. The computer should be able to randomly generate S,W or G and declare win or loss using alert. 
-// Use confirm and prompt whenever required.
+// Game of snake, water & gun. The game should ask you to enter S, W or G. The computer will randomly generate S,W or G and declare win or loss using alert. 
+
 
 // S, W, G
 // s w = s
